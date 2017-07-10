@@ -1,0 +1,23 @@
+i.icon{
+    font-size: 2rem;
+}
+.main.segment{
+    margin-top: 7.0rem;
+}
+.huge.header{
+    margin-bottom: 2.0rem;
+    text-align: center;
+}
+hr{
+    width : 400px;
+}
+#deleteForm{
+    display: inline;
+}
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+#title{
+    margin-top: 7.0rem;
+}
